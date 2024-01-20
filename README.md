@@ -44,4 +44,7 @@ This project analyzes Nashville housing data, encompassing data cleaning, explor
 
 ### Conclusion:
 
-Comprehensive analysis of Nashville housing data, demonstrating expertise in data cleaning, EDA, SQL, and machine learning. For details, refer to the README file.
+This summary provides an overview of the tasks performed in your notebook. If you have specific questions or need assistance with any part of the code, feel free to ask!  
+  
+Email: makalamabotjasfp@gmail.com  
+LinkedIn: [Makala Mabotja](https://www.linkedin.com/in/makala-mabotja/)
